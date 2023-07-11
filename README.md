@@ -10,3 +10,5 @@ subjects studied in 2023 hufs data campus
 2.regression(linear,multiple,ridge)
 
 3.multilayer-perceptron
+
+4.CNN
